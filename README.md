@@ -113,6 +113,10 @@ uv run streamlit run app.py
 
 Open **http://localhost:8501** in your browser.
 
+##DEMO 
+## Demo
+
+![App Screenshot](assets/demo.png)
 ---
 
 ## Usage
